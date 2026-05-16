@@ -1,7 +1,4 @@
-from flask import Flask
+from backend.app import app
 
-app = Flask(__name__)
-
-@app.route("/")
-def home():
-    return "Sales Forecast AI is running successfully!"
+if __name__ == "__main__":
+    app.run()

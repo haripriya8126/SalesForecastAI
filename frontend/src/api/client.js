@@ -3,7 +3,7 @@
  * Includes fallback data so the UI never shows blank charts on errors.
  */
 
-const API_BASE = "https://salesforecastai.onrender.com";
+const API_BASE = "https://salesforecastai.onrender.com/api";
 
 async function fetchJson(path, options = {}) {
   const res = await fetch(`${API_BASE}${path}`, {

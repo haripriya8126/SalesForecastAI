@@ -5,8 +5,9 @@ A modern, full-stack **AI sales prediction dashboard** that forecasts future sal
 ![SalesVisionAI](https://img.shields.io/badge/React-18-61DAFB?style=flat&logo=react)
 ![Flask](https://img.shields.io/badge/Flask-3-000000?style=flat&logo=flask)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-ML-F7931E?style=flat)
+
 THIS IS THE PROJECT WEBSITE LINK 
-https://sales-forecast-ai-wbzm.vercel.app
+https://haripriya8126-salesforecastai.vercel.app/
 ---
 
 ## Screenshots
